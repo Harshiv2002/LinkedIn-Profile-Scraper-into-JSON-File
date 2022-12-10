@@ -1,4 +1,4 @@
-# Webscraping-LinkedIn-data-into-JSON-File
+# LinkedIn-Profile-Scraper-into-JSON-File
 
 ## Project Description:
 
