@@ -18,7 +18,7 @@ Step 4- Run the *Scroll* function block, set the scrolling speed as per your int
 
 Step 5- Run the *Scrape* function
 
-Step 6- If all the functions have successfully run proceed to run the URL Lists block and then Run the main code block
+Step 6- If all the functions have successfully run proceed to run the *URL* Lists block and then Run the *main function* code block
 
 Step 7- Enter the JSON file name and wait till the webscraping is complete, JSON file will be automatically created and downloaded  
 
