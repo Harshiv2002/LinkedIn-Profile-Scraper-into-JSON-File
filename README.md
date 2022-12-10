@@ -12,11 +12,11 @@ simillarly CEO URLs are put in another list and so on
 
 Step 2- Install Dependencies 
 
-Step 3- Run the log into account code block
+Step 3- Run the *log into account* code block
 
-Step 4- Run the Scroll function block, set the scrolling speed as per your internet speed
+Step 4- Run the *Scroll* function block, set the scrolling speed as per your internet speed
 
-Step 5- Run the Scrape function
+Step 5- Run the *Scrape* function
 
 Step 6- If all the functions have successfully run proceed to run the URL Lists block and then Run the main code block
 
