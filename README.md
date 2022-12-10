@@ -5,6 +5,13 @@
 This project Scrapes data from LinkedIn and stores the data in JSON file format for future use in data analytics.
 The code automatically scrapes the linkedIn page given the URL, but only the URL should be inputted manually.
 
+The scraper will be able to scrape-
+
+1. Name 🕵
+2. Job Description 🏢
+
+There is no need to set up a virtual environment. Code is 100% done on jupyter notebook, easy implementation. 
+
 ## How to run the project:
 
 Step 1- Collect all the URLs and put it in a list categorically, for example data scientists URLs has been put in one list
